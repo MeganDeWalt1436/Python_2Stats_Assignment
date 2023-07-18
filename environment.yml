@@ -23,6 +23,10 @@ dependencies:
   - dask
   - pip
   - pip:
+    - matplotlib
+    - scikit-learn
+    - statsmodels
+    - seaborn
     - plotly 
     - scikit-learn
     - numpy
